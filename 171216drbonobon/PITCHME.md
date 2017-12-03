@@ -103,7 +103,8 @@ Note:
   - 生命科学分野のイラストをだれでも自由に閲覧・利用できるように無料で公開
   - http://togotv.dbcls.jp/pics.html
 
-![togotv](http://togotv.dbcls.jp/images/logo_togotv15.png)
+
+![togopic](ftp://ftp.biosciencedbc.jp/archive/togo-pic/image/201708_ComputerAnalysisScreen_matrix_anim.png)
 
 ---
 
