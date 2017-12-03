@@ -57,9 +57,10 @@ Note:
 ### 三島で何をやってるの?
 
 * DNA配列や遺伝子発現データベースを使いやすくする技術開発
-  * [DBCLS SRA](http://sra.dbcls.jp/) Bono本p34
-  * [AOE(All of gene expression)](http://aoe.dbcls.jp/) Bono本p176の図5.10
-  * [GGRNA](http://ggrna.dbcls.jp/),[GGGenome](http://gggenome.dbcls.jp/),[CRISPRdirect](http://crispr.dbcls.jp/) Bono本 p146,147
+  * [DBCLS SRA](http://sra.dbcls.jp/) Bono本 p34
+  * [AOE(All of gene expression)](http://aoe.dbcls.jp/) Bono本 p176の図5.10
+  * [GGRNA](http://ggrna.dbcls.jp/),[GGGenome](http://gggenome.dbcls.jp/) Bono本 p146
+  * [CRISPRdirect](http://crispr.dbcls.jp/) Bono本 p147
 ---
 
 ### こんなこともDBCLSで
@@ -81,7 +82,7 @@ Note:
 ### ライフサイエンス領域融合レビュー
 
 * 日本分子生物学会,日本蛋白質科学会,日本細胞生物学会,日本植物生理学会 との協力のもと,生命科学において注目される分野・学問領域について,第一線の研究者の執筆による,専門分野の異なる生命科学研究者にむけた日本語によるレビューを,だれでも自由に閲覧・利用できるようWeb上にて無料で公開
-* http://leading.lifesciencedb.jp/
+  - http://leading.lifesciencedb.jp/
 
 
 +++
@@ -90,14 +91,17 @@ Note:
 
 * 初心者向けの生命科学データベース利用講習会
   - 2018年1月16,17日に浜松医科大学にて開催予定
-* http://motdb.dbcls.jp/?AJACS
+  - http://motdb.dbcls.jp/?AJACS
 
 +++
 
 ### 統合TV
 
 * 生命科学分野の有用なデータベースやツールの使い方を動画で紹介するウェブサイト
-* http://togotv.dbcls.jp/
+  - http://togotv.dbcls.jp/
+* Togo Picture Gallery
+  - 生命科学分野のイラストをだれでも自由に閲覧・利用できるように無料で公開
+  - http://togotv.dbcls.jp/pics.html
 
 ![togotv](http://togotv.dbcls.jp/images/logo_togotv15.png)
 
