@@ -1,7 +1,9 @@
 # 1. 生命科学データ解析の歴史
 
 Dr.Bonoの生命科学データ解析-読書会
-171216
+
+2017/12/16 at 静岡
+
 坊農秀雅 a.k.a. Dr.Bono
 
 Note:
@@ -58,7 +60,7 @@ Note:
 
 DNA配列や遺伝子発現データベースを使いやすくする技術開発
 - [DBCLS SRA](http://sra.dbcls.jp/) Bono本 p34
--  [AOE(葵; All of gene expression)](http://aoe.dbcls.jp/) Bono本 p176の図5.10
+-  [AOE(葵)](http://aoe.dbcls.jp/) Bono本 p176の図5.10
 - [GGRNA](http://ggrna.dbcls.jp/),[GGGenome](http://gggenome.dbcls.jp/) Bono本 p146
 - [CRISPRdirect](http://crispr.dbcls.jp/) Bono本 p147
 ---
@@ -111,18 +113,18 @@ Nature,Science,Cell などに代表されるトップジャーナルに掲載さ
 ---
 ### なぜこの本を書いたのか
 - 生命科学データ解析界隈で本が出ない
-  - 日本だけじゃなくて世界的にも |
-  - 翻訳すべき本が英語でも出ていない |
-  - 監訳した [バイオインフォマティクス 第2版](http://www.amazon.co.jp/gp/product/4895924262?ie=UTF8&linkCode=as2&camp=1634&creative=6738&tag=dnamicroarray-22&creativeASIN=4895924262) 絶版のお知らせ |
-- [データサイエンティスト養成読本](http://www.amazon.co.jp/gp/product/4774183601?ie=UTF8&linkCode=as2&camp=1634&creative=6738&tag=dnamicroarray-22&creativeASIN=4774183601)の生命科学版があるといいのに |
+  - 日本だけじゃなくて世界的にも
+  - 翻訳すべき本が英語でも出ていない
+  - 監訳した [バイオインフォマティクス 第2版](http://www.amazon.co.jp/gp/product/4895924262?ie=UTF8&linkCode=as2&camp=1634&creative=6738&tag=dnamicroarray-22&creativeASIN=4895924262) 絶版のお知らせ
+- [データサイエンティスト養成読本](http://www.amazon.co.jp/gp/product/4774183601?ie=UTF8&linkCode=as2&camp=1634&creative=6738&tag=dnamicroarray-22&creativeASIN=4774183601)の生命科学版があるといいのに
 ---
 ### 1.1 なぜ今，データ解析か ?
 データがデカイから
 
-| | データベースの種類　| 総塩基数 |
+| | DBの種類　| 総塩基数 |
 |---|---|---|
-| 一次データ(生データ) | 国際塩基配列データベース | 約2.1×10<sup>12</sup> (2.1 T)塩基 |
-| 一次データ(生データ)  | 次世代シークエンサーからの塩基配列データベース(公開分)  |  約4.5×10<sup>15</sup> (4.5 P)塩基 |
-| 二次データ(キュレーションされたデータ)| ヒトリファレンスゲノム配列 | 約3.1×10<sup>9</sup> (3.1 G)塩基 |
+| 一次データ | 国際塩基配列DB | 2.1×10<sup>12</sup> (2.1 T) |
+| 一次データ | 次世代シークエンサーからの塩基配列DB(公開分)  |  4.5×10<sup>15</sup> (4.5 P) |
+| 二次データ | ヒトリファレンスゲノム配列 | 3.1×10<sup>9</sup> (3.1 G) |
 ---
 ### 1.2 バイオテクノロジーとデータ解析の歴史
