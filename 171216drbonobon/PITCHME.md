@@ -15,11 +15,16 @@ Note:
 * 坊農秀雅 / Hidemasa Bono
 * Twitter: [@bonohu](https://twitter.com/bonohu)
 * [温泉インフォマティクス研究会](https://twitter.com/kubor_/status/860448923441221632) 主催
-* オープンアクセスエバンジェリスト
-  *  [FANTOM5データを誰でも活用できる形に](https://www.natureasia.com/ja-jp/scientificdata/papers-from-japan/fantom5) Scientific dataのインタビュー記事
-  * [誰もが“バイオインフォマティシャン”の時代](http://doi.org/10.1038/ndigest.2015.150122) Nature ダイジェスト Vol. 12 No. 1 のインタビュー記事
 
 ![bonohu](http://www.natureasia.com/static/ja-jp/scientificdata/img/papers-from-japan/fantom5/bono.jpg)
+
++++
+
+### Dr.Bono紹介記事
+
+*  [FANTOM5データを誰でも活用できる形に](https://www.natureasia.com/ja-jp/scientificdata/papers-from-japan/fantom5) Scientific dataのインタビュー記事
+* [誰もが“バイオインフォマティシャン”の時代](http://doi.org/10.1038/ndigest.2015.150122) Nature ダイジェスト Vol. 12 No. 1 のインタビュー記事
+
 
 ---
 
