@@ -12,8 +12,8 @@ Note:
 
 ## Who am I?(お前誰やねん)
 
-* 坊農秀雅 / Hidemasa Bono
-* Twitter: [@bonohu](https://twitter.com/bonohu)
+* 坊農秀雅 / Hidemasa Bono / Dr. Bono
+* Twitter: [@bonohu](https://twitter.com/bonohu), [@drbonohu](https://twitter.com/drbonohu)
 * [温泉インフォマティクス研究会](https://twitter.com/kubor_/status/860448923441221632) 主催
 
 ![bonohu](http://www.natureasia.com/static/ja-jp/scientificdata/img/papers-from-japan/fantom5/bono.jpg)
@@ -39,7 +39,8 @@ Note:
 ### DBCLS
 
 * 2007年4月設立
-* ライフサイエンス分野のDBとサービスの専門機関
+  * 現在、柏の葉と三島の2拠点で活動
+* ライフサイエンス分野DBとサービスの専門機関
 * 国内を中心にDBの統合化と保全に努める
 * 利用者の利便性を高めるための情報技術の研究開発やサービスの開発を行う
 
@@ -49,10 +50,15 @@ Note:
 
 * DNA Data Bank of Japan (DDBJ; 静岡県三島市)と連携
 * DNA配列データベースを使いやすくする技術開発
+  * [DBCLS SRA](http://sra.dbcls.jp/) Bono本p34
+  * [AOE(All of gene expression)](http://aoe.dbcls.jp/) Bono本p176の図5.10
+
+
+![DBCLS_DDBJ](http://dbcls.rois.ac.jp/wp-content/uploads/2014/02/076a3beb1ba39ef1b0a95339fc86ec72.png)
 
 ---
 
-### それ以外の
+### それ以外の活動
 
 * DB利用講習会
 * DB使い方の動画チュートリアル作成
@@ -83,5 +89,11 @@ Note:
   * 1.1 なぜ今，データ解析か ?
   * 1.2 バイオテクノロジーとデータ解析の歴史
 
+
+---
+
+### なぜこの本を書いたのか
+
+https://bonohu.wordpress.com/2017/09/19/why-drbonobon/
 
 ---
