@@ -104,7 +104,7 @@ Note:
   - http://togotv.dbcls.jp/pics.html
 
 
-![togopic](ftp://ftp.biosciencedbc.jp/archive/togo-pic/image/201708_ComputerAnalysisScreen_matrix_anim.png)
+![togopic](201708_ComputerAnalysisScreen_matrix_anim.png)
 
 ---
 
