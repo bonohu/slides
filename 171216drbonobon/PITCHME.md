@@ -56,7 +56,7 @@ Note:
 
 ### 三島で何をやってるの?
 
-* DNA配列や遺伝子発現データベースを使いやすくする技術開発
+* DNA配列や遺伝子発現データベースを使いやすくする技術開発 |
   * [DBCLS SRA](http://sra.dbcls.jp/) Bono本 p34
   * [AOE(All of gene expression)](http://aoe.dbcls.jp/) Bono本 p176の図5.10
   * [GGRNA](http://ggrna.dbcls.jp/),[GGGenome](http://gggenome.dbcls.jp/) Bono本 p146
@@ -66,8 +66,8 @@ Note:
 ### こんなこともDBCLSで
 
 * ライフサイエンス新着論文レビュー
-* ライフサイエンス領域融合レビュー
-* DB利用講習会
+* ライフサイエンス領域融合レビュー |
+* DB利用講習会 |
 * DB使い方の動画チュートリアル作成
 
 +++
@@ -102,9 +102,6 @@ Note:
 * Togo Picture Gallery
   - 生命科学分野のイラストをだれでも自由に閲覧・利用できるように無料で公開
   - http://togotv.dbcls.jp/pics.html
-
-
-![togopic](201708_ComputerAnalysisScreen_matrix_anim.png)
 
 ---
 
