@@ -25,7 +25,7 @@ Note:
 ### 紹介記事
 
 - [FANTOM5データを誰でも活用できる形に](https://www.natureasia.com/ja-jp/scientificdata/papers-from-japan/fantom5) Scientific dataのインタビュー記事
-- [ライフサイエンス分野におけるオープンサイエンスへの課題〜データインフラ整備だけでなく、研究者の意識改革に向けた議論へ〜](http://scirex.grips.ac.jp/newsletter/SciREX-Quarterly20161125.pdf#page=14) SciREX Quarterly,3, 14-15 (2016)
+- [ライフサイエンス分野におけるオープンサイエンスへの課題〜データインフラ整備だけでなく、研究者の意識改革に向けた議論へ〜](http://scirex.grips.ac.jp/newsletter/3-2016-11/05.html) SciREX Quarterly,3, 14-15 (2016)
 - [誰もが“バイオインフォマティシャン”の時代](http://doi.org/10.1038/ndigest.2015.150122) Nature ダイジェストのインタビュー記事
 ---
 
