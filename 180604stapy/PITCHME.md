@@ -97,6 +97,10 @@ TATACATTTCTAAGCCTTGTTTGCAGAATAAACAGGGCATTTAGCAAACTAAAAAAAAAAAAAAAAAAA
 
 - 2003年に完全解読したヒトゲノム、その更新版
 - そのありか
+  - Ensembl `http://asia.ensembl.org/info/data/ftp/index.html`
+  - UCSC `http://hgdownload.soe.ucsc.edu/downloads.html`
+
+**これらも、無料で誰でも無制限に使える！**
 
 +++
 
@@ -104,8 +108,11 @@ TATACATTTCTAAGCCTTGTTTGCAGAATAAACAGGGCATTTAGCAAACTAAAAAAAAAAAAAAAAAAA
 
 - Suffix array
 - その実装
-  - Bowtie2
-  - BWA
+  - [Bowtie](http://bowtie-bio.sourceforge.net/)
+    - Splice mapping用: TopHat → [HISAT2](https://ccb.jhu.edu/software/hisat2/)
+  - [BWA](http://bio-bwa.sourceforge.net/)
+
+**すべてフリーウェア**
 
 ---
 
