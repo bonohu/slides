@@ -1,4 +1,4 @@
-# PythonとJavaScriptによる生命科学データ解析における可視化サービスの構築
+## PythonとJavaScriptによる生命科学データ解析における可視化サービスの構築
 
 2018/06/04 at 東京
 
@@ -13,7 +13,7 @@ Note:
 
 - 坊農秀雅 / Hidemasa Bono, PhD. /  [@bonohu](https://twitter.com/bonohu)
 - [温泉インフォマティクス研究会](https://twitter.com/kubor_/status/860448923441221632) 主催
-- [Dr. Bonoの生命科学データ解析](http://bonohu.jp/blog/category/drbonobon.html) 上梓 （2017年9月）
+- [Dr. Bonoの生命科学データ解析](http://bonohu.jp/blog/category/drbonobon.html) 上梓 (2017/9)
 
 ![drbonobon](https://images-na.ssl-images-amazon.com/images/I/51gwooGvqYL.jpg)
 
