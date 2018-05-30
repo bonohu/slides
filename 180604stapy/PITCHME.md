@@ -48,7 +48,7 @@ Note:
 
 - 文字データ
   - 塩基(DNA)配列、アミノ酸配列
-  - サンプルに関する記述（メタデータ）
+  - 研究やサンプルに関する記述（メタデータ）
 - 数値データ
   - 遺伝子の発現量
   - 立体構造の座標
@@ -78,11 +78,22 @@ TATACATTTCTAAGCCTTGTTTGCAGAATAAACAGGGCATTTAGCAAACTAAAAAAAAAAAAAAAAAAA
 ```
 
 +++
+### メタデータ（研究）
 
+![Bioproject](images/bioproject.png)
+
++++
+### メタデータ（サンプル）
+
+![Biosample](images/biosample.png)
+
++++
 ### 個体差
 
-- その頻度を調べてかく
-- その記述実例としてVCFファイル提示する
+- ヒト30億塩基対に1000塩基に1つ
+  - 一塩基多型が多い
+- それを記述する形式:
+  - VCF(Variant Call Format)
 
 ---
 
