@@ -102,10 +102,12 @@ TATACATTTCTAAGCCTTGTTTGCAGAATAAACAGGGCATTTAGCAAACTAAAAAAAAAAAAAAAAAAA
 +++
 ### 遺伝子発現量
 
+- 例: [ヒトの10組織（RNA-seqによる）](https://doi.org/10.6084/m9.figshare.4028661)
 
 +++
 ### タンパク質立体構造
 
+- 例: [PDBj(HIF1A)](https://pdbj.org/mine/summary/1h2k)
 
 ---
 
