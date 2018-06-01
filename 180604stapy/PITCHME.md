@@ -23,17 +23,13 @@ Note:
 
 - [2007年4月設立の（国立）研究センター](https://dbcls.rois.ac.jp/)
   - 柏の葉と三島の2拠点で活動
-
-![DBCLS](http://leading.lifesciencedb.jp/wordpress/wp-content/uploads/2014/06/logo_en_c.png)
-
-+++
-
-### DBCLS
-
 - ライフサイエンス分野DBとサービスの専門機関
 - 利用者の利便性を高めるための情報技術の研究開発
   - DNA配列や遺伝子発現DBを使いやすくする技術開発
 
++++
+
+### DBCLSやっていること概要
 
 ![direction_map](images/direction_map.png)
 
