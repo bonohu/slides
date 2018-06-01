@@ -29,12 +29,15 @@ Note:
 
 ### DBCLS
 
-- 2007年4月設立の研究所
+- 2007年4月設立の（国立）研究所
   -  現在、柏の葉と三島の2拠点で活動
 - ライフサイエンス分野DBとサービスの専門機関
-- 国内を中心にDBの統合化と保全に努める
+  - 国内を中心にDBの統合化と保全に努める
 - 利用者の利便性を高めるための情報技術の研究開発やサービスの開発を行う
   - DNA配列や遺伝子発現データベースを使いやすくする技術開発
+
+
+![direction_map](images/direction_map.png)
 
 ---
 
@@ -98,6 +101,8 @@ TATACATTTCTAAGCCTTGTTTGCAGAATAAACAGGGCATTTAGCAAACTAAAAAAAAAAAAAAAAAAA
   - VCF(Variant Call Format)
 
 ![VCF](images/VCF.png)
+
+`csvlook`による可視化(?)
 
 +++
 ### 遺伝子発現量
