@@ -21,7 +21,8 @@ Note:
 
 ### ライフサイエンス統合データベースセンター所属
 
-- [Database Center for Life Science (DBCLS)](https://dbcls.rois.ac.jp/)
+- [2007年4月設立の（国立）研究センター](https://dbcls.rois.ac.jp/)
+  - 柏の葉と三島の2拠点で活動
 
 ![DBCLS](http://leading.lifesciencedb.jp/wordpress/wp-content/uploads/2014/06/logo_en_c.png)
 
@@ -29,12 +30,9 @@ Note:
 
 ### DBCLS
 
-- 2007年4月設立の（国立）研究所
-  -  現在、柏の葉と三島の2拠点で活動
 - ライフサイエンス分野DBとサービスの専門機関
-  - 国内を中心にDBの統合化と保全に努める
-- 利用者の利便性を高めるための情報技術の研究開発やサービスの開発を行う
-  - DNA配列や遺伝子発現データベースを使いやすくする技術開発
+- 利用者の利便性を高めるための情報技術の研究開発
+  - DNA配列や遺伝子発現DBを使いやすくする技術開発
 
 
 ![direction_map](images/direction_map.png)
