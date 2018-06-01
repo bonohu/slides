@@ -11,7 +11,7 @@ Note:
 
 ## お前誰やねん
 
-- 坊農秀雅 / Hidemasa Bono, PhD. /  [@bonohu](https://twitter.com/bonohu)
+- [坊農秀雅](http://bonohu.jp/) / Hidemasa Bono, PhD. /  [@bonohu](https://twitter.com/bonohu)
 - [温泉インフォマティクス研究会](https://twitter.com/kubor_/status/860448923441221632) 主催
 - [Dr. Bonoの生命科学データ解析](http://bonohu.jp/blog/category/drbonobon.html) 上梓 (2017/9)
 
@@ -22,7 +22,7 @@ Note:
 ### ライフサイエンス統合データベースセンター(DBCLS)所属
 
 - 2007年4月設立の（国立）研究センター
-  - 柏の葉と三島の2拠点で活動
+  - 柏と三島の2拠点で活動
 - ライフサイエンス分野DBとサービスの専門機関
 - 利用者の利便性を高める情報技術の研究開発
   - DNA配列や発現DBを使いやすくする技術開発
@@ -93,12 +93,11 @@ TATACATTTCTAAGCCTTGTTTGCAGAATAAACAGGGCATTTAGCAAACTAAAAAAAAAAAAAAAAAAA
 
 - ヒト30億塩基対に1000塩基に1つ
   - 一塩基多型が多い
-- それを記述する形式:
-  - VCF(Variant Call Format)
+- VCF (Variant Call Format)
 
 ![VCF](images/VCF.png)
 
-`csvlook`による可視化(?)
+`csvlook`による可視化
 
 +++
 ### 遺伝子発現量
@@ -109,6 +108,8 @@ TATACATTTCTAAGCCTTGTTTGCAGAATAAACAGGGCATTTAGCAAACTAAAAAAAAAAAAAAAAAAA
 ### タンパク質立体構造
 
 - 例: [PDBj(HIF1A)](https://pdbj.org/mine/summary/1h2k)
+
+**すべて無料で、誰でも自由に使える！**
 
 ---
 
