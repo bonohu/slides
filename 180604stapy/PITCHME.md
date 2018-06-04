@@ -42,7 +42,7 @@ https://dbcls.rois.ac.jp/
 - 生命科学における可視化手段
 - その実例紹介（[大石さん](https://twitter.com/oec014)から）
 
-![180604MtFuji](images/180604mtfuji.jpg)
+![MtFuji180604](images/mtfuji180604.jpg)
 
 ---
 
