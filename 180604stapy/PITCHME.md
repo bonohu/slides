@@ -156,3 +156,9 @@ http://genome-asia.ucsc.edu
 [詳しくは統合TVにて動画で使い方を紹介](http://doi.org/10.7875/togotv.2017.105)
 
 ---
+
+## @oec014 との出会い
+
+- 2013年夏頃 DBCLS三島移動が決まる
+- 2013/11 [Shizuoka.py #3](https://connpass.com/event/3651/)
+  - [同懇親会](https://connpass.com/event/3652/)
