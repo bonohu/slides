@@ -42,7 +42,7 @@ https://dbcls.rois.ac.jp/
 - 生命科学における可視化手段
 - その実例紹介（[大石さん](https://twitter.com/oec014)から）
 
-![MtFuji180604](images/mt_fuji180604.jpg)
+![MtFuji180604](images/mtfuji180604.jpg)
 
 ---
 
@@ -115,14 +115,29 @@ TATACATTTCTAAGCCTTGTTTGCAGAATAAACAGGGCATTTAGCAAACTAAAAAAAAAAAAAAAAAAA
 
 ---
 
-## ヒトデータの可視化手段
+## 生命科学における可視化手段
 
-例：配列の場合、典型的には
+数値データの場合は、多次元のデータが多いので、主成分分析して第1,2主成分で散布図なんてこともしばしば
+
+- 20年前はGhostview
+- ここ10年はR
+  - [R graphical manual](https://www.imsbio.co.jp/RGM/)
+  - [DRY解析教本](https://gakken-mesh.jp/book/detail/9784780909203.html)のLevel3
+- これからはPython!?
+  - [Jupyter本](http://gihyo.jp/book/2017/978-4-7741-9223-9)の4〜7章
+
+個人的には[TIBCO Spotfire](http://doi.org/10.7875/togotv.2017.036)を使ったり
+
++++
+
+## 配列データの可視化手段
+
+ヒト配列データの場合、典型的には
 
 1. Reference(参照)ゲノム配列にマッピング
 2. ゲノムブラウザで可視化
 
-数値データの場合は、多次元のデータが多いので、主成分分析して第1,2主成分で散布図なんてこともしばしば
+ゲノム配列が決定されている生物が対象の場合、これが基本
 
 +++
 
