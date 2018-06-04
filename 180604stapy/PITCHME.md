@@ -117,7 +117,7 @@ TATACATTTCTAAGCCTTGTTTGCAGAATAAACAGGGCATTTAGCAAACTAAAAAAAAAAAAAAAAAAA
 
 ## 生命科学における可視化手段
 
-数値データの場合は、多次元のデータが多いので、主成分分析して第1,2主成分で散布図なんてこともしばしば
+数値データの場合：多次元のデータが多い → 主成分分析して第1,2主成分で散布図、がしばしば
 
 - 20年前はGhostview
 - ここ10年はR
