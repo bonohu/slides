@@ -162,3 +162,6 @@ http://genome-asia.ucsc.edu
 - 2013年夏頃 DBCLS三島移動が決まる
 - 2013/11 [Shizuoka.py #3](https://connpass.com/event/3651/)
   - [同懇親会](https://connpass.com/event/3652/)
+
+![oden](images/oden.jpg)
+![tajin nabe](images/tajin.jpg)
