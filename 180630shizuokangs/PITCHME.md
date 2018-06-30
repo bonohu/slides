@@ -12,7 +12,7 @@ Note:
 ## お前誰やねん
 
 - [坊農秀雅](http://bonohu.jp/) / Hidemasa Bono, PhD. /  [@bonohu](https://twitter.com/bonohu)
-- [温泉インフォマティクス研究会](https://twitter.com/kubor_/status/860448923441221632) 主催
+- [次世代シークエンサーDRY解析教本](https://gakken-mesh.jp/book/detail/9784780909203.html) 分担執筆＆監修 (2015/10)
 - [Dr. Bonoの生命科学データ解析](http://bonohu.jp/blog/category/drbonobon.html) 上梓 (2017/9)
 
 ![drbonobon](https://images-na.ssl-images-amazon.com/images/I/51gwooGvqYL.jpg)
@@ -20,8 +20,14 @@ Note:
 ---
 
 ## はなすこと
+- 補足資料㊙を使って説明
 - 生命科学データとは？
-- 生命科学データを使ってできること
+- 生命科学における可視化
+	- ゲノムブラウザ
+
+---
+
+## 補足資料㊙による説明
 
 ---
 
@@ -94,7 +100,7 @@ TATACATTTCTAAGCCTTGTTTGCAGAATAAACAGGGCATTTAGCAAACTAAAAAAAAAAAAAAAAAAA
 
 ---
 
-## 生命科学における可視化手段
+## 生命科学における可視化
 
 数値データの場合：多次元のデータが多い → 主成分分析して第1,2主成分で散布図、がしばしば
 
