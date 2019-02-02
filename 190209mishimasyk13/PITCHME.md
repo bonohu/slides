@@ -5,7 +5,7 @@
 坊農秀雅 a.k.a. Dr.Bono
 
 Note:
-概論
+合計10分で
 
 ---
 
@@ -14,6 +14,7 @@ Note:
 - [坊農秀雅](http://bonohu.jp/) / Hidemasa Bono, PhD. /  [@bonohu](https://twitter.com/bonohu)
 - [次世代シークエンサーDRY解析教本](https://gakken-mesh.jp/book/detail/9784780909203.html) 分担執筆＆監修 (2015/10)
 - [Dr. Bonoの生命科学データ解析](http://bonohu.jp/blog/category/drbonobon.html) 上梓 (2017/9)
+- [生命科学データベース・ウェブツール](http://bonohu.jp/blog/category/togotv18.html) 分担執筆＆監修 (2018/11)
 
 ![drbonobon](https://images-na.ssl-images-amazon.com/images/I/51gwooGvqYL.jpg)
 
@@ -39,7 +40,7 @@ Note:
 - トンデモ防止
   - 現場の情報をまとめておきたかった
 - 2017年7月[mishima.syk#10](https://bonohu.wordpress.com/2017/07/09/mishima-syk-10/) @kubor_ 参戦
-  - 翌日開催の温泉インフォマティクス研究会で主に
+  - 翌日の温泉インフォマティクス研究会で主に
 
 +++
 
@@ -47,15 +48,18 @@ Note:
 
 - 2017年12月 編集者と会って
   - [Pythonオープンサイエンスシンポジウム in つくば](https://startpython.connpass.com/event/70649/)　
-- [データサイエンティスト養成読本](https://amzn.to/2D4sPom)の編集者だった
+- [データサイエンティスト養成読本](https://amzn.to/2D4sPom)の編集者！
   - 「生命科学編をぜひ」
+- 企画案送付→本を出すことに
  
 +++
 
 ## For whom?
 
 - 生命科学データ解析に興味あるエンジニア
+  - メインターゲット 
 - 情報技術に興味ある生命科学者
+  - 実はこちらにも需要があるらしい
 
 ---
 
