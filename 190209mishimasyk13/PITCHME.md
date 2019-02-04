@@ -19,7 +19,7 @@ Note:
 ![drbonobon](https://images-na.ssl-images-amazon.com/images/I/51gwooGvqYL.jpg)
 
 ---
-## 本日発売
+## 本日(190209)発売
 - [生命科学データ解析を支える情報技術](http://bonohu.jp/blog/category/it4bda.html)
   - Information Techonology for Biological Data Analaysis ([**IT4BDA**](https://twitter.com/hashtag/IT4BDA))
 ![IT4BDA](http://bonohu.jp/blog/images/IT4BDA.jpg)
@@ -29,6 +29,7 @@ Note:
 ## はなすこと
 
 - Why? How? For whom?
+- 目次
 - 補足資料㊙の種明かし
 
 ---
@@ -56,8 +57,8 @@ Note:
 
 ## For whom?
 
-- 生命科学データ解析に興味あるエンジニア
-  - メインターゲット 
+- 生命科学データ解析に興味ある人
+  - メインターゲットはエンジニア
 - 情報技術に興味ある生命科学者
   - 実はこちらにも需要があるらしい
 
