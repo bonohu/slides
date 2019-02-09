@@ -37,12 +37,14 @@ Note:
 ## Why?
 
 - 仲間が欲しかった
-  - 生命科学データ解析に関われるエンジニア
+  - 生命科学に興味あるエンジニア
+  - 生命科学データ解析に関われる人材
 - トンデモ防止
   - 現場の情報をまとめておきたかった
 - 2017年7月[mishima.syk#10](https://bonohu.wordpress.com/2017/07/09/mishima-syk-10/) @kubor_ 参戦
-  - 翌日の温泉インフォマティクス研究会で主に
+  - 翌日の温泉インフォマティクス研究会で議論
 
+![御殿場時之栖からの富士山](https://github.com/bonohu/slides/blob/master/images/mtfuji_tokinosumika.jpg?raw=true)
 +++
 
 ## How?
@@ -51,8 +53,10 @@ Note:
   - [Pythonオープンサイエンスシンポジウム in つくば](https://startpython.connpass.com/event/70649/)　
 - [データサイエンティスト養成読本](https://amzn.to/2D4sPom)の編集者！
   - 「生命科学編をぜひ」
-- 企画案送付→本を出すことに
+- 企画案送付 → 本を出すことに（2018年2月9日）
  
+![データサイエンティスト養成読本](http://image.gihyo.co.jp/assets/images/cover/2016/9784774183602.jpg)
+
 +++
 
 ## For whom?
