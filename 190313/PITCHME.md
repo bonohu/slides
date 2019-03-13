@@ -132,7 +132,7 @@
 
 ---
 
-## [静岡にて勉強会を不定期に開催中！](https://shizuoka-ngs.connpass.com/)
+## [静岡にて勉強会やってます！](https://shizuoka-ngs.connpass.com/)
 
 ![マグロ丼](https://github.com/bonohu/slides/blob/master/images/magurodon.png?raw=true)
 
