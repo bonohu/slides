@@ -30,6 +30,10 @@
 - Why? How? For whom?
 - 目次
 
+![タジン鍋](https://github.com/bonohu/slides/blob/master/images/tajin.jpg?raw=true)
+![静岡おでん](https://github.com/bonohu/slides/blob/master/images/oden.jpg?raw=true)
+
+
 ---
 
 ## Why?
