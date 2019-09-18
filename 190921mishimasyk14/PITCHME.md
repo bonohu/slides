@@ -89,7 +89,7 @@ https://youtu.be/86eY8xs-Vo8
 
 ### meetupへの参加
 
-- 2019年4月から[workflow meetup](https://github.com/manabuishii/workflow-meetup)に毎月行くように
+- [2019年4月からworkflow meetup](http://bonohu.jp/blog/15th-workflow-meetup.html)に毎月行くように
     - Docker使うやり方で、`kallisto`や`salmon`を動かしたい
 - 参加してたら何となく動かせるようになった→中上級講習会で
     - 2019年6月 [Shizuoka.ngs#2](https://shizuoka-ngs.connpass.com/event/128816/)では[kallisto](http://bonohu.jp/blog/running-kallisto-via-cwl.html)
@@ -137,7 +137,8 @@ https://youtu.be/86eY8xs-Vo8
 
 - CWLを使うために
 - 何でもCWLで書く？
-
+- CWLを書こう
+- 
 +++
 
 ### CWLを使うために
@@ -157,7 +158,17 @@ https://youtu.be/86eY8xs-Vo8
     - [Shizuoka.ngs#2](https://shizuoka-ngs.connpass.com/event/128816/)でのハンズオン
     - [AJACSa6河内](https://dbcls.rois.ac.jp/ja/2019/06/25/post1.html)講習会でのハンズオン
 
++++
 
+### CWLを書こう
+
+- ハッシュタグ `#CommonWL` をつけてtweetすると
+    - すぐに[Michael](https://twitter.com/biocrusoe)に捕捉されます
+- 日本語でもOK。日本語nativeな極東のCWL書きがきっといい答えをくれますが、以下のドキュメントは日本語なので、読んどこうね
+    - [雑に始める CWL！](https://qiita.com/tm_tn/items/4956f5ca523f7f49f386)
+    - [続・雑に始める CWL！](https://qiita.com/tm_tn/items/83ce4c826135d78ba98f)
+    - [CWLのワークフローを、ステップバイステップで書く。](https://qiita.com/manabuishiirb/items/e16baded333c9630bbdb)
+    
 ---
 
 ## コマーシャル
