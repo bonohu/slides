@@ -102,7 +102,16 @@ https://youtu.be/86eY8xs-Vo8
 
 - [Trim GaloreのCommandLineTool](http://bonohu.jp/blog/bh197.html) at 国内版バイオハッカソン(BH19.7)
 - [kallisto BUStoolsのチュートリアルを襷リレーでCWL化](http://bonohu.jp/blog/19th-workflow-meetup-3.html) at お盆ソン
-     
+
++++
+
+### 支援ツール
+
+- [Rabix](https://rabix.io/)
+    - [大阪大学医学部Python会: Common Workflow Language入門](https://pythonoum.wordpress.com/2018/12/07/common-workflow-language入門/)
+- [Common Workflow Language Viewer](https://view.commonwl.org)
+    - ex: `https://github.com/dbcls/AOE/blob/master/gethoge-and-pigz.cwl`
+
 ---
 ### なぜに？
 
