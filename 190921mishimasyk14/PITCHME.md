@@ -12,6 +12,7 @@ Note:
 # お前誰やねん
 
 - [坊農秀雅](http://bonohu.jp/) / Hidemasa Bono, PhD. /  [@bonohu](https://twitter.com/bonohu)
+- 非プログラマなバイオ系
 - Bio->Writer
     - [Dr. Bonoの生命科学データ解析](http://bonohu.jp/blog/category/drbonobon.html) 上梓 (2017/09)
     - [生命科学データベース・ウェブツール](http://bonohu.jp/blog/category/togotv18.html) 分担執筆＆監修 (2018/11)
@@ -43,9 +44,9 @@ Note:
 The Common Workflow Language (CWL) is an open standard for describing analysis workflows and tools in a way that makes them portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments.
 
 From http://www.commonwl.org/
-- hash tag [#CommonWL](https://twitter.com/hashtag/commonwl?f=tweets&vertical=default) 
+- hash tag [#CommonWL](https://twitter.com/hashtag/commonwl?f=tweets&vertical=default)
 
-+++ 
++++
 
 ### 64秒で分かる Common Workflow Language
 
@@ -65,7 +66,7 @@ https://youtu.be/86eY8xs-Vo8
 
 - CommandLineTool
 - Workflow
-    - CommandLineToolを組み合わせて 
+    - CommandLineToolを組み合わせて
 
 ---
 
@@ -147,7 +148,7 @@ https://youtu.be/86eY8xs-Vo8
 - CWLを使うために
 - 何でもCWLで書く？
 - CWLを書こう
-- 
+-
 +++
 
 ### CWLを使うために
@@ -177,7 +178,7 @@ https://youtu.be/86eY8xs-Vo8
     - [雑に始める CWL！](https://qiita.com/tm_tn/items/4956f5ca523f7f49f386)
     - [続・雑に始める CWL！](https://qiita.com/tm_tn/items/83ce4c826135d78ba98f)
     - [CWLのワークフローを、ステップバイステップで書く。](https://qiita.com/manabuishiirb/items/e16baded333c9630bbdb)
-    
+
 ---
 
 ## コマーシャル
